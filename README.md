@@ -46,7 +46,11 @@ This github account aims to boost productivity, inspire collaboration, and give 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
 </div>
 
-![snake gif](https://github.com/cicsbalayan/cicsbalayan/blob/output/github-snake-dark.svg)
+
+---
+
+<div align="center">
+  ![snake gif](https://github.com/cicsbalayan/cicsbalayan/blob/output/github-snake-dark.svg)
+</div>
