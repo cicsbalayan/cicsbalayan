@@ -49,4 +49,4 @@ This github account aims to boost productivity, inspire collaboration, and give 
 
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cicsbalayan/cicsbalayan/blob/output/github-contribution-grid-snake.svg)
