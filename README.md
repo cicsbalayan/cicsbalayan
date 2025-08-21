@@ -49,8 +49,10 @@ This github account aims to boost productivity, inspire collaboration, and give 
 </div>
 
 
----
-
 <div align="center">
+    
   ![snake gif](https://github.com/cicsbalayan/cicsbalayan/blob/output/github-snake-dark.svg)
 </div>
+
+
+
